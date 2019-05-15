@@ -1,0 +1,19 @@
+{
+  "name": "heroku-worker-sample",
+  "version": "1.0.0",
+  "description": "heroku-worker-sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanmugs/heroku-worker-sample.git"
+  },
+  "author": "sathish <iamsathish@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanmugs/heroku-worker-sample/issues"
+  },
+  "homepage": "https://github.com/shanmugs/heroku-worker-sample#readme"
+}
